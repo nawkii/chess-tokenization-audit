@@ -1,0 +1,27 @@
+{
+  "python": "3.14.3 (tags/v3.14.3:323c59a, Feb  3 2026, 16:04:56) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-11-10.0.26200-SP0",
+  "run_date": "2026-07-07",
+  "n_games": 8000,
+  "n_san_units": 532673,
+  "n_fen_records": 49674,
+  "seed": 42,
+  "fen_interval": 10,
+  "n_bootstrap": 1000,
+  "packages": {
+    "transformers": "5.12.1",
+    "tokenizers": "0.22.2",
+    "tiktoken": "0.13.0",
+    "sentencepiece": "0.2.1",
+    "zstandard": "0.25.0",
+    "chess": "1.11.2",
+    "pandas": "3.0.3",
+    "numpy": "2.5.0",
+    "matplotlib": "3.11.0"
+  },
+  "hf_repos": {
+    "openai-community/gpt2": "607a30d783dfa663caf39e06633721c8d4cfcd7e",
+    "mistralai/Mistral-7B-v0.1": "27d67f1b5f57dc0953326b2601d68371d40ea8da",
+    "InterwebAlchemy/PGNTokenizer": "3341d84e70a1d221cbe0f0d4edc96559845b96d9"
+  }
+}

@@ -1,0 +1,17 @@
+stratum,time_control,elo_band,pool,sampled
+blitz|1400-1799,blitz,1400-1799,11189,1464
+blitz|1800-2199,blitz,1800-2199,7597,985
+blitz|<1400,blitz,<1400,8196,1065
+blitz|>=2200,blitz,>=2200,1050,113
+bullet|1400-1799,bullet,1400-1799,7131,923
+bullet|1800-2199,bullet,1800-2199,7569,981
+bullet|<1400,bullet,<1400,4232,536
+bullet|>=2200,bullet,>=2200,3283,411
+classical|1400-1799,classical,1400-1799,201,100
+classical|1800-2199,classical,1800-2199,82,82
+classical|<1400,classical,<1400,82,82
+classical|>=2200,classical,>=2200,4,4
+rapid|1400-1799,rapid,1400-1799,3509,441
+rapid|1800-2199,rapid,1800-2199,1655,194
+rapid|<1400,rapid,<1400,4104,519
+rapid|>=2200,rapid,>=2200,116,100

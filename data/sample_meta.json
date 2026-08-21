@@ -1,0 +1,15 @@
+{
+  "source_url": "https://database.lichess.org/standard/lichess_db_standard_rated_2026-05.pgn.zst",
+  "access_date": "2026-07-07",
+  "compressed_bytes_fetched": 19923400,
+  "games_seen": 60935,
+  "excluded_short": 935,
+  "excluded_malformed": 0,
+  "excluded_no_elo": 0,
+  "pool_size": 60000,
+  "n_strata": 16,
+  "sample_size": 8000,
+  "stratum_floor": 100,
+  "min_plies_filter": 10,
+  "seed": 42
+}

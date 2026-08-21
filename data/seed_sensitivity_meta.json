@@ -1,0 +1,45 @@
+{
+  "run_date": "2026-07-25",
+  "seeds": [
+    42,
+    7,
+    2024
+  ],
+  "pool_size": 60000,
+  "games_seen": 60935,
+  "compressed_bytes_fetched": 19923400,
+  "n_strata": 16,
+  "sample_size": 8000,
+  "seed42_reproduces_released_corpus": true,
+  "units_per_seed": {
+    "42": {
+      "san": 532673,
+      "uci": 532673,
+      "fen": 49674
+    },
+    "7": {
+      "san": 533358,
+      "uci": 533358,
+      "fen": 49806
+    },
+    "2024": {
+      "san": 533285,
+      "uci": 533285,
+      "fen": 49755
+    }
+  },
+  "max_pct_deviation_from_seed42": {
+    "fertility": 0.2163,
+    "tokens_per_char": 0.0604,
+    "split_rate": 1.0052
+  },
+  "top20_san_overlap_with_seed42": {
+    "42": 20,
+    "7": 20,
+    "2024": 20
+  },
+  "distinct_types_released_corpus": {
+    "san": 3446,
+    "uci": 1858
+  }
+}
